@@ -1,0 +1,688 @@
+# Copyright (C) 2024 Hei Zhu
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: HZ Discord Bot Tiny 0.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hz-discord-bot-"
+"tiny\n"
+"Last-Translator: \n"
+"Language-Team: 繁體中文\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-29T15:00:49+01:00\n"
+"PO-Revision-Date: 2024-11-30 11:20+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: hz-discord-bot-tiny\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2"
+
+#: public/class-hz-discord-bot-tiny-public.php:1037
+msgid "%s (%s) updated the order status to %s through Discord interaction"
+msgstr "%s (%s) 透過 Discord 互動將訂單狀態更新為 %s"
+
+#: admin/partials/hz-discord-bot-tiny-notify-display.php:59
+#: admin/partials/hz-discord-bot-tiny-webhook-display.php:76
+msgid "Add a new group"
+msgstr "新增群組"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:111
+msgid "All commands cleared successfully"
+msgstr "所有指令均已成功清除"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:878
+msgid "APPLICATION ID"
+msgstr ""
+
+#: admin/class-hz-discord-bot-tiny-admin.php:790
+msgid "Application Message"
+msgstr "應用訊息"
+
+#: admin/class_hz_discord_bot_details.php:21
+msgid "Billing Address 1"
+msgstr ""
+
+#: admin/class_hz_discord_bot_details.php:22
+msgid "Billing Address 2"
+msgstr ""
+
+#: admin/class_hz_discord_bot_details.php:23
+msgid "Billing City"
+msgstr ""
+
+#: admin/class_hz_discord_bot_details.php:26
+msgid "Billing Country"
+msgstr ""
+
+#: admin/class_hz_discord_bot_details.php:19
+msgid "Billing Email"
+msgstr ""
+
+#: admin/class_hz_discord_bot_details.php:17
+msgid "Billing First Name"
+msgstr ""
+
+#: admin/class_hz_discord_bot_details.php:18
+msgid "Billing Last Name"
+msgstr ""
+
+#: public/class-hz-discord-bot-tiny-public.php:962
+msgid "Billing Name: "
+msgstr ""
+
+#: admin/class-hz-discord-bot-tiny-admin.php:598
+#: admin/class_hz_discord_bot_details.php:20
+msgid "Billing Phone"
+msgstr ""
+
+#: admin/class_hz_discord_bot_details.php:25
+msgid "Billing Postcode"
+msgstr ""
+
+#: admin/class_hz_discord_bot_details.php:24
+msgid "Billing State"
+msgstr ""
+
+#: admin/partials/hz-discord-bot-tiny-admin-display.php:18
+msgid "Bot"
+msgstr ""
+
+#: admin/class-hz-discord-bot-tiny-admin.php:899
+msgid "BOT TOKEN"
+msgstr ""
+
+#: public/class-hz-discord-bot-tiny-public.php:464
+#: public/class-hz-discord-bot-tiny-public.php:502
+#: public/class-hz-discord-bot-tiny-public.php:896
+#: public/class-hz-discord-bot-tiny-public.php:937
+#: public/class-hz-discord-bot-tiny-public.php:1025
+msgid "Can't find the order"
+msgstr ""
+
+#: public/class-hz-discord-bot-tiny-public.php:582
+msgid "Can't find the product"
+msgstr ""
+
+#: admin/partials/template/notify_form_handler.php:37
+msgid "Channel"
+msgstr ""
+
+#: admin/class-hz-discord-bot-tiny-admin.php:109
+msgid "Clear"
+msgstr ""
+
+#: admin/class-hz-discord-bot-tiny-admin.php:112
+msgid "Clear Error"
+msgstr ""
+
+#: admin/class-hz-discord-bot-tiny-admin.php:942
+msgid "Clear the command"
+msgstr ""
+
+#: admin/class-hz-discord-bot-tiny-admin.php:110
+msgid "Clearing..."
+msgstr "清除中..."
+
+#: admin/class-hz-discord-bot-tiny-admin.php:115
+msgid "Command synchronization failed"
+msgstr "命令同步失敗"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:114
+msgid "Command synchronization successful"
+msgstr "指令同步成功"
+
+#: admin/partials/hz-discord-bot-tiny-general-display.php:8
+msgid "Commands"
+msgstr "指令"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:731
+#: admin/class-hz-discord-bot-tiny-admin.php:824
+msgid "Content"
+msgstr "內容"
+
+#: admin/partials/template/base_message_handler.php:27
+msgid "Copied successfully"
+msgstr "複製成功"
+
+#: admin/partials/template/base_message_handler.php:8
+#: admin/partials/template/base_message_handler.php:20
+msgid "Copy"
+msgstr "複製"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:920
+msgid "Debug"
+msgstr ""
+
+#: admin/partials/hz-discord-bot-tiny-notify-display.php:54
+#: admin/partials/hz-discord-bot-tiny-webhook-display.php:72
+#: admin/partials/template/notify_form_handler.php:50
+#: admin/partials/template/webhook_form_handler.php:66
+msgid "Delete"
+msgstr "刪除"
+
+#: public/class-hz-discord-bot-tiny-public.php:346
+msgid "Disable"
+msgstr "停用"
+
+#: public/class-hz-discord-bot-tiny-public.php:802
+msgid "Edit Product"
+msgstr "編輯產品"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:934
+#: public/class-hz-discord-bot-tiny-public.php:345
+#: public/class-hz-discord-bot-tiny-public.php:820
+msgid "Enable"
+msgstr "啟用"
+
+#: public/class-hz-discord-bot-tiny-public.php:261
+msgid "Enter Order ID (required)"
+msgstr "輸入訂單 ID（必填）"
+
+#: admin/partials/hz-discord-bot-tiny-notify-display.php:43
+#: admin/partials/template/notify_form_handler.php:40
+msgid "Enter the channel ID"
+msgstr "輸入頻道ID(channel ID)"
+
+#: public/class-hz-discord-bot-tiny-public.php:274
+msgid "Enter the notes you want to add (optional)"
+msgstr "輸入您要新增的註釋（可選）"
+
+#: public/class-hz-discord-bot-tiny-public.php:351
+#: public/class-hz-discord-bot-tiny-public.php:357
+msgid "Enter the price to be changed (optional)"
+msgstr "輸入要變更的價格（可選）"
+
+#: public/class-hz-discord-bot-tiny-public.php:363
+msgid "Enter the stock quantity to be changed (optional)"
+msgstr "輸入要變更的庫存數量（可選）"
+
+#: public/class-hz-discord-bot-tiny-public.php:301
+msgid "Enter your phone number"
+msgstr "輸入您的電話號碼"
+
+#: public/class-hz-discord-bot-tiny-public.php:305
+msgid "Enter your phone number (required)"
+msgstr "輸入您的電話號碼（必填）"
+
+#: public/class-hz-discord-bot-tiny-public.php:330
+msgid "Enter your product name"
+msgstr "輸入您的產品名稱"
+
+#: public/class-hz-discord-bot-tiny-public.php:334
+msgid "Enter your product name (required)"
+msgstr "輸入您的產品名稱（必填）"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:127
+msgid "Error in sending POST request: "
+msgstr "發送 POST 請求時發生錯誤："
+
+#: admin/class-hz-discord-bot-tiny-admin.php:931
+msgid "Error Log"
+msgstr ""
+
+#: admin/class-hz-discord-bot-tiny-admin.php:863
+msgid "Form Section Settings"
+msgstr "表單設定"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:909
+msgid "GUILD ID"
+msgstr ""
+
+#. Author of the plugin
+msgid "Hei Zhu"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://discordbot.heizhu.dev"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://heizhu.dev/author/"
+msgstr ""
+
+#. Plugin Name of the plugin
+msgid "HZ Discord Bot Tiny"
+msgstr ""
+
+#: admin/class-hz-discord-bot-tiny-admin.php:668
+msgid "Manual sync"
+msgstr "手動同步"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:610
+msgid "Maximum query limit: 10"
+msgstr "最大查詢限制：10"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:359
+#: admin/class-hz-discord-bot-tiny-admin.php:538
+#: admin/class-hz-discord-bot-tiny-admin.php:573
+#: admin/partials/hz-discord-bot-tiny-notify-display.php:47
+#: admin/partials/hz-discord-bot-tiny-webhook-display.php:65
+#: admin/partials/template/notify_form_handler.php:44
+#: admin/partials/template/webhook_form_handler.php:59
+#: public/class-hz-discord-bot-tiny-public.php:556
+msgid "Message"
+msgstr "訊息"
+
+#: public/class-hz-discord-bot-tiny-public.php:836
+#: public/class-hz-discord-bot-tiny-public.php:841
+msgid "N/A"
+msgstr ""
+
+#: admin/class_hz_discord_bot_details.php:74
+msgid "New Order Notification"
+msgstr "新訂單通知"
+
+#: admin/class_hz_discord_bot_details.php:76
+msgid "New User Registration Notification"
+msgstr "新用戶註冊通知"
+
+#: public/class-hz-discord-bot-tiny-public.php:821
+msgid "No"
+msgstr "否"
+
+#: admin/partials/hz-discord-bot-tiny-general-display.php:15
+msgid "Notify"
+msgstr "通知"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:448
+msgid "Order Application Commands"
+msgstr "訂單應用指令"
+
+#: admin/class_hz_discord_bot_details.php:16
+msgid "Order Date"
+msgstr "訂購日期"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:340
+#: public/class-hz-discord-bot-tiny-public.php:552
+#: public/class-hz-discord-bot-tiny-public.php:954
+msgid "Order Details"
+msgstr "訂單詳情"
+
+#: admin/class_hz_discord_bot_details.php:13
+msgid "Order ID"
+msgstr "訂單編號"
+
+#: admin/class_hz_discord_bot_details.php:36
+msgid "Order Note"
+msgstr "訂單備註"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:344
+msgid "Order Number"
+msgstr "訂單編號"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:349
+#: admin/class-hz-discord-bot-tiny-admin.php:513
+#: admin/class-hz-discord-bot-tiny-admin.php:548
+#: admin/class-hz-discord-bot-tiny-admin.php:617
+#: admin/class-hz-discord-bot-tiny-admin.php:799
+#: admin/class_hz_discord_bot_details.php:15
+msgid "Order Status"
+msgstr "訂單狀態"
+
+#: admin/class_hz_discord_bot_details.php:75
+msgid "Order Status Change Notification"
+msgstr "訂單狀態變更通知"
+
+#: public/class-hz-discord-bot-tiny-public.php:1047
+msgid "Order status has been successfully updated"
+msgstr "訂單狀態已成功更新"
+
+#: admin/class_hz_discord_bot_details.php:14
+msgid "Order Total"
+msgstr "訂單總計"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:354
+msgid "Payment Amount"
+msgstr "付款金額"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:643
+#: admin/partials/hz-discord-bot-tiny-notify-display.php:23
+#: admin/partials/hz-discord-bot-tiny-webhook-display.php:41
+#: admin/partials/template/notify_form_handler.php:20
+#: admin/partials/template/webhook_form_handler.php:37
+msgid "Payment Gateways"
+msgstr "支付方式"
+
+#: admin/class_hz_discord_bot_details.php:35
+msgid "Payment Method"
+msgstr "付款方式"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:583
+msgid "Phone Application Commands"
+msgstr "電話查詢指令"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:595
+msgid "Phone Type"
+msgstr "電話類型"
+
+#: public/class-hz-discord-bot-tiny-public.php:161
+#: public/class-hz-discord-bot-tiny-public.php:876
+msgid "Please enter the order ID"
+msgstr "請輸入訂單ID"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:867
+msgid "Please go to"
+msgstr "請前往"
+
+#: public/class-hz-discord-bot-tiny-public.php:816
+msgid "Product Details"
+msgstr "產品詳情"
+
+#: public/class-hz-discord-bot-tiny-public.php:617
+#: public/class-hz-discord-bot-tiny-public.php:689
+#: public/class-hz-discord-bot-tiny-public.php:716
+msgid "Product has been updated for draft"
+msgstr "產品已更新為草稿"
+
+#: public/class-hz-discord-bot-tiny-public.php:614
+#: public/class-hz-discord-bot-tiny-public.php:686
+#: public/class-hz-discord-bot-tiny-public.php:713
+msgid "Product has been updated for release"
+msgstr "產品已更新發布"
+
+#: public/class-hz-discord-bot-tiny-public.php:825
+msgid "Product Name"
+msgstr "產品名稱"
+
+#: public/class-hz-discord-bot-tiny-public.php:628
+#: public/class-hz-discord-bot-tiny-public.php:636
+#: public/class-hz-discord-bot-tiny-public.php:724
+#: public/class-hz-discord-bot-tiny-public.php:732
+msgid "Product Regular price has been updated"
+msgstr "產品常規價格已更新"
+
+#: public/class-hz-discord-bot-tiny-public.php:652
+#: public/class-hz-discord-bot-tiny-public.php:748
+msgid "Product Sale price has been updated"
+msgstr "產品銷售價格已更新"
+
+#: public/class-hz-discord-bot-tiny-public.php:659
+#: public/class-hz-discord-bot-tiny-public.php:755
+msgid "Product Sale price has been updated using the product's regular price"
+msgstr "產品促銷價已使用產品的正常價格進行更新"
+
+#: public/class-hz-discord-bot-tiny-public.php:674
+#: public/class-hz-discord-bot-tiny-public.php:769
+msgid "Product stock quantity has been updated"
+msgstr "產品庫存數量已更新"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:889
+msgid "PUBLIC KEY"
+msgstr ""
+
+#: admin/class-hz-discord-bot-tiny-admin.php:606
+msgid "Query limit"
+msgstr "查詢限制"
+
+#: public/class-hz-discord-bot-tiny-public.php:830
+msgid "Regular Price"
+msgstr "正常價格"
+
+#: public/class-hz-discord-bot-tiny-public.php:643
+#: public/class-hz-discord-bot-tiny-public.php:739
+msgid "Regular price must be greater than 0"
+msgstr "正常價格必須大於0"
+
+#: public/class-hz-discord-bot-tiny-public.php:638
+#: public/class-hz-discord-bot-tiny-public.php:734
+msgid "Regular price must be greater than current regular price"
+msgstr "正常價格必須高於目前正常價格"
+
+#: public/class-hz-discord-bot-tiny-public.php:630
+#: public/class-hz-discord-bot-tiny-public.php:726
+msgid "Regular price must be greater than sale price"
+msgstr "正常價格必須高於促銷價"
+
+#: public/class-hz-discord-bot-tiny-public.php:835
+msgid "Sale Price"
+msgstr "銷售價格"
+
+#: public/class-hz-discord-bot-tiny-public.php:665
+#: public/class-hz-discord-bot-tiny-public.php:761
+msgid "Sale price must be greater than 0"
+msgstr "銷售價格必須大於 0"
+
+#: public/class-hz-discord-bot-tiny-public.php:661
+#: public/class-hz-discord-bot-tiny-public.php:757
+msgid "Sale price must be less than the product's regular price"
+msgstr "促銷價格必須低於產品的正常價格"
+
+#: public/class-hz-discord-bot-tiny-public.php:654
+#: public/class-hz-discord-bot-tiny-public.php:750
+msgid "Sale price must be less than the provided regular price"
+msgstr "銷售價格必須低於提供的正常價格"
+
+#: public/class-hz-discord-bot-tiny-public.php:267
+#: public/class-hz-discord-bot-tiny-public.php:311
+msgid "Select the order status to be changed (optional)"
+msgstr "選擇要變更的訂單狀態（可選）"
+
+#: public/class-hz-discord-bot-tiny-public.php:318
+msgid "Select the payment method (optional)"
+msgstr "選擇付款方式（可選）"
+
+#: public/class-hz-discord-bot-tiny-public.php:341
+msgid "Select the status to be changed (optional)"
+msgstr "選擇要變更的狀態（可選）"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:659
+msgid "Selection of command-controllable payment gateways"
+msgstr "選擇指令可查詢的支付方式"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:530
+#: admin/class-hz-discord-bot-tiny-admin.php:634
+msgid "Selection of command-controllable states"
+msgstr "選擇指令可查詢的支付方式"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:816
+msgid "Selection of controllable states"
+msgstr "可控狀態的選擇"
+
+#: admin/partials/hz-discord-bot-tiny-notify-display.php:40
+msgid "Send to Channel"
+msgstr "發送至頻道"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:394
+#: admin/partials/hz-discord-bot-tiny-general-display.php:22
+msgid "Settings"
+msgstr "設定"
+
+#: admin/class_hz_discord_bot_details.php:29
+msgid "Shipping Address 1"
+msgstr ""
+
+#: admin/class_hz_discord_bot_details.php:30
+msgid "Shipping Address 2"
+msgstr ""
+
+#: admin/class_hz_discord_bot_details.php:31
+msgid "Shipping City"
+msgstr ""
+
+#: admin/class_hz_discord_bot_details.php:34
+msgid "Shipping Country"
+msgstr ""
+
+#: admin/class_hz_discord_bot_details.php:27
+msgid "Shipping First Name"
+msgstr ""
+
+#: admin/class_hz_discord_bot_details.php:28
+msgid "Shipping Last Name"
+msgstr ""
+
+#: admin/class-hz-discord-bot-tiny-admin.php:599
+msgid "Shipping Phone"
+msgstr ""
+
+#: admin/class_hz_discord_bot_details.php:33
+msgid "Shipping Postcode"
+msgstr ""
+
+#: admin/class_hz_discord_bot_details.php:32
+msgid "Shipping State"
+msgstr ""
+
+#: public/class-hz-discord-bot-tiny-public.php:845
+msgid "Sold Quantity"
+msgstr "售出數量"
+
+#: admin/partials/template/notify_form_handler.php:4
+msgid "status"
+msgstr "狀態:"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:565
+msgid ""
+"Status options of the controls that can be selected when an order is queried."
+msgstr "查詢訂單時可以選擇的控制項的狀態選項。"
+
+#: public/class-hz-discord-bot-tiny-public.php:962
+msgid "Status: "
+msgstr "狀態:"
+
+#: public/class-hz-discord-bot-tiny-public.php:840
+msgid "Stock Quantity"
+msgstr "庫存數量"
+
+#: public/class-hz-discord-bot-tiny-public.php:676
+#: public/class-hz-discord-bot-tiny-public.php:771
+msgid "Stock quantity must be greater than or equal to 0"
+msgstr "庫存數量必須大於或等於0"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:116
+msgid "Sync Command"
+msgstr "同步命令"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:684
+msgid "Sync command"
+msgstr "同步命令"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:113
+msgid "Syncing..."
+msgstr "正在同步..."
+
+#: admin/class-hz-discord-bot-tiny-admin.php:913
+msgid "The GUILD ID is the ID of the server where the bot is located."
+msgstr "GUILD ID是bot所在伺服器的ID。"
+
+#: public/class-hz-discord-bot-tiny-public.php:472
+msgid "The Order has been updated to %s via Discord interaction - by %s"
+msgstr "訂單已透過 Discord 互動更新至 %s - 由 %s"
+
+#: public/class-hz-discord-bot-tiny-public.php:1032
+msgid "The order has been updated to Pending through Discord interaction."
+msgstr "該訂單已透過 Discord 互動更新為待處理。"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:136
+msgid "The setting has been successfully saved!"
+msgstr "設定已成功儲存"
+
+#: admin/partials/hz-discord-bot-tiny-notify-display.php:7
+#: admin/partials/hz-discord-bot-tiny-webhook-display.php:24
+#: admin/partials/template/webhook_form_handler.php:21
+msgid "The status changes to"
+msgstr "狀態變為"
+
+#. Description of the plugin
+msgid "This is a description of the plugin."
+msgstr "這是插件的描述。"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:868
+msgid "to create an application and obtain the APPLICATION ID."
+msgstr "建立應用程式並取得APPLICATION ID。"
+
+#: public/class-hz-discord-bot-tiny-public.php:962
+msgid "Total: "
+msgstr ""
+
+#: admin/partials/hz-discord-bot-tiny-webhook-display.php:7
+#: admin/partials/template/webhook_form_handler.php:7
+msgid "Type"
+msgstr "類型"
+
+#: admin/class_hz_discord_bot_details.php:50
+msgid "User Email"
+msgstr "使用者信箱"
+
+#: admin/class_hz_discord_bot_details.php:48
+msgid "User ID"
+msgstr "使用者身分"
+
+#: admin/class_hz_discord_bot_details.php:49
+msgid "User Login"
+msgstr "使用者登入"
+
+#: public/class-hz-discord-bot-tiny-public.php:693
+msgid "Variable products cannot be updated with regular price"
+msgstr "可變產品無法以正常價格更新"
+
+#: public/class-hz-discord-bot-tiny-public.php:697
+msgid "Variable products cannot be updated with sale price"
+msgstr "可變產品無法使用促銷價進行更新"
+
+#: public/class-hz-discord-bot-tiny-public.php:701
+msgid "Variable products cannot be updated with stock quantity"
+msgstr "可變產品無法根據庫存數量進行更新"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:325
+#: public/class-hz-discord-bot-tiny-public.php:537
+msgid "View Order"
+msgstr "查看訂單"
+
+#: public/class-hz-discord-bot-tiny-public.php:796
+msgid "View Product"
+msgstr "查看產品"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:721
+#: admin/partials/hz-discord-bot-tiny-admin-display.php:22
+#: admin/partials/hz-discord-bot-tiny-webhook-display.php:58
+#: admin/partials/template/webhook_form_handler.php:53
+msgid "Webhooks"
+msgstr ""
+
+#: admin/class-hz-discord-bot-tiny-admin.php:670
+msgid ""
+"When the settings page is fully filled out, and after clicking save, if the "
+"command does not synchronize, please click manual sync."
+msgstr "當設定頁面填寫完畢並點選儲存後，如果指令未同步，請點選手動同步。"
+
+#: public/class-hz-discord-bot-tiny-public.php:821
+msgid "Yes"
+msgstr "是"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:586
+msgid "You can check your order by <i class=\"command\">%s</i>"
+msgstr "您可以透過<i class=\"command\">%s</i>查看您的訂單"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:450
+msgid "You can select the state to be controlled by the "
+msgstr "您可以選擇要控制的狀態"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:723
+msgid ""
+"You can use the Discord Webhooks feature to get notifications quickly and "
+"easily."
+msgstr "您可以使用 Discord Webhooks 功能快速輕鬆地取得通知。"
+
+#: admin/partials/template/base_message_handler.php:2
+msgid "You can use these tags in the order message template:(click to copy)"
+msgstr "您可以在訂單訊息範本中使用這些標籤：（點擊複製）"
+
+#: admin/partials/template/base_message_handler.php:14
+msgid "You can use these tags when you have new users:(click to copy)"
+msgstr "當您有新用戶時，您可以使用這些標籤：（點擊複製）"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:792
+msgid ""
+"You can use this function to send messages when an order changes to a "
+"specified status and control"
+msgstr "您可以使用此功能在訂單變更為指定狀態時傳送訊息並進行控制"
+
+#: admin/class-hz-discord-bot-tiny-admin.php:871
+msgid "Your Interactions Endpoint URL"
+msgstr "您的互動端點 URL"
+
+#: public/class-hz-discord-bot-tiny-public.php:257
+msgid "原來你也玩原神"
+msgstr ""
