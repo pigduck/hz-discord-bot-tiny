@@ -16,4 +16,4 @@
 讓 HZ Discord Bot Tiny 為您的 WooCommerce 商店帶來智能管理的升級！
 
 
-詳細請閱讀 [文檔](https://discordbot.heizhu.dev/文檔)
+詳細請閱讀 [文檔](https://discordbot.heizhu.dev/)
