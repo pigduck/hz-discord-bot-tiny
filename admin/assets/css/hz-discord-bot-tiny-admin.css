@@ -1,0 +1,111 @@
+.form-block {
+  background: #fff;
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-bottom: 15px;
+  position: relative;
+}
+.form-block input[type=text] {
+  width: 100%;
+  margin-bottom: 10px;
+}
+.form-block textarea {
+  width: 100%;
+  height: 150px;
+}
+.form-block .checkbox-group {
+  margin-bottom: 10px;
+}
+.form-block .checkbox-group label {
+  margin-right: 15px;
+}
+.form-block .hidden {
+  display: none;
+}
+.form-block table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 10px;
+}
+.form-block table th {
+  background: #f5f5f5;
+  text-align: center;
+  vertical-align: middle;
+}
+.form-block table th, .form-block table td {
+  border: 1px solid #ccc;
+  padding: 5px;
+}
+.form-block table th {
+  background: #f5f5f5;
+}
+
+.big-letter {
+  text-transform: uppercase;
+}
+
+.hz-discord-bot-tiny-message-ctrl {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  font-style: italic;
+}
+.hz-discord-bot-tiny-message-ctrl li {
+  position: relative;
+  background: #ddd;
+  padding: 3px;
+  color: #3b3b3b;
+  cursor: pointer;
+}
+.hz-discord-bot-tiny-message-ctrl li div {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateY(-110%) translateX(-50%);
+  padding: 3px 5px;
+  background: rgb(43, 43, 43);
+  color: #fff;
+  display: none;
+}
+.hz-discord-bot-tiny-message-ctrl li div:before {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-2px);
+  border-width: 5px;
+  border-style: solid;
+  border-color: rgb(43, 43, 43) transparent transparent transparent;
+}
+.hz-discord-bot-tiny-message-ctrl li:hover > div {
+  display: block;
+}
+
+.alert-container {
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 30px;
+  background: rgb(43, 43, 43);
+  z-index: 9999;
+  color: #fff;
+  padding: 10px 10px;
+  display: none;
+}
+
+.debug, .interactions-url {
+  background: #ddd;
+  padding: 3px;
+  color: #3b3b3b;
+  font-style: italic;
+}
+
+i.command {
+  background: #ddd;
+  padding: 3px;
+  color: #3b3b3b;
+  font-style: italic;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=hz-discord-bot-tiny-admin.css.map */
